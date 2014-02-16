@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9674e1e3-f3dd-4a35-8c7c-e21ae2a1b2be" name="Default" comment="" />
+    <list default="true" id="9674e1e3-f3dd-4a35-8c7c-e21ae2a1b2be" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="RgbHex.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="31" selection-start="702" selection-end="702" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="945">
+            <state line="25" column="31" selection-start="702" selection-end="702" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="52" selection-start="129" selection-end="129" vertical-scroll-proportion="0.075093865" vertical-offset="0" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -71,6 +82,7 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -258,7 +270,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="702" selection-end="702" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="945">
+        <state line="25" column="31" selection-start="702" selection-end="702" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="129" selection-end="129" vertical-scroll-proportion="0.075093865" vertical-offset="0" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
