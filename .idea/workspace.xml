@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9674e1e3-f3dd-4a35-8c7c-e21ae2a1b2be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9674e1e3-f3dd-4a35-8c7c-e21ae2a1b2be" name="Default" comment="" />
     <ignored path="RgbHex.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,27 +35,25 @@
       <file leaf-file-name="manifest.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="330">
-              <folding>
-                <marker date="1392606163000" expanded="true" signature="0:410" placeholder="{&quot;name&quot;: &quot;RGB HEX Converter&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="19" selection-start="667" selection-end="667" vertical-scroll-proportion="-7.2916665" vertical-offset="170" max-vertical-offset="960">
+            <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="31" selection-start="789" selection-end="789" vertical-scroll-proportion="0.5419355" vertical-offset="0" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="30" selection-start="0" selection-end="153" vertical-scroll-proportion="0.075093865" vertical-offset="0" max-vertical-offset="799">
+            <state line="4" column="30" selection-start="0" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -161,6 +153,14 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -171,23 +171,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -265,6 +257,41 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="2370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="0" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="17" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="566" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="35" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="279" max-vertical-offset="2220">
           <folding />
         </state>
@@ -296,13 +323,6 @@
         <state line="3661" column="0" selection-start="65901" selection-end="65901" vertical-scroll-proportion="0.33291614" vertical-offset="54649" max-vertical-offset="57045" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="17" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="566" max-vertical-offset="1410">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="0" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="2370">
@@ -312,23 +332,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="330">
-          <folding>
-            <marker date="1392606163000" expanded="true" signature="0:410" placeholder="{&quot;name&quot;: &quot;RGB HEX Converter&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="667" selection-end="667" vertical-scroll-proportion="-7.2916665" vertical-offset="170" max-vertical-offset="960">
+        <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="0" selection-end="153" vertical-scroll-proportion="0.075093865" vertical-offset="0" max-vertical-offset="799">
+        <state line="4" column="30" selection-start="0" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="17" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="566" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="31" selection-start="789" selection-end="789" vertical-scroll-proportion="0.5419355" vertical-offset="0" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
