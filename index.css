@@ -24,11 +24,12 @@ header {
 .rgb, .hex {
 	font-size: 30px;
 	letter-spacing: 5px;
+    cursor: pointer;
 }
 
 .rgb {
 	color: #fec6ad;
-} 
+}
 
 .hex {
 	color: #a3d9c2;
@@ -84,5 +85,3 @@ header {
 #footer a:link, a:hover, a:active, a:visited {
     color: #21cdf9;
 }
-
-

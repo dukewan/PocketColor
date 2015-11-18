@@ -1,7 +1,6 @@
 {
     "manifest_version" : 2,
 
-
     "name" : "RGB HEX Converter",
     "description" : "This extension performs the conversion between rgb and hex. It's fast and stable.",
     "version" : "1.0",
@@ -12,6 +11,4 @@
         "default_icon" : "icon.png",
         "default_popup" : "index.html"
     }
-
-
 }
