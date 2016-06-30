@@ -1,0 +1,27 @@
+{
+  "name": "pocketcolor",
+  "version": "2.0.0",
+  "description": "A new way to collect, convert and use color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukewan/PocketColor.git"
+  },
+  "keywords": [
+    "color",
+    "convert",
+    "pick"
+  ],
+  "author": "Yizhao He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dukewan/PocketColor/issues"
+  },
+  "homepage": "https://github.com/dukewan/PocketColor#readme",
+  "dependencies": {
+    "react-dom": "^15.1.0"
+  }
+}
